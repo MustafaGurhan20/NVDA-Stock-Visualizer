@@ -29,3 +29,4 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
    ```bash
    git clone [https://github.com/MustafaGurhan20/NVDA-Stock-Visualizer.git](https://github.com/MustafaGurhan20/NVDA-Stock-Visualizer.git)
 <img width="1919" height="857" alt="Ekran görüntüsü 2025-12-25 142921" src="https://github.com/user-attachments/assets/e9acf16b-b48e-4f6e-b412-6851b295fb0e" />
+<p align="center"> Mustafa Gürhan tarafından ❤️ ile geliştirildi. </p>
